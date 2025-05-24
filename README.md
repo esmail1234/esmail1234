@@ -13,9 +13,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=esmail1234&label=Profile%20views&color=1E90FF&style=flat" alt="Profile Views" />
-
-<br><br>
 <hr style="width: 80%; border: 2px solid #1E90FF;" />
 
 <h2 style="color:#FF6347; margin-bottom: 20px;">🛠️ Languages & Tools:</h2>
