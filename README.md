@@ -46,16 +46,10 @@
 
 ---
 
-<h2 style="color: #FF8C00;">📊 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=esmail1234" alt="esmail1234" />
-
----
-
-<h2 style="color: #1E90FF;">📈 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmail1234&show_icons=true&locale=en&layout=compact" alt="esmail1234">
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 15px; background: linear-gradient(135deg, #1E90FF20, #00000020); border-radius: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmail1234&show_icons=true&locale=en&layout=compact&custom_title=Top%20Languages&theme=transparent&bg_color=00000000&text_color=FFFFFF&border_color=1E90FF&title_color=1E90FF&icon_color=1E90FF&border_radius=20&card_width=400" alt="esmail1234 Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=esmail1234&show_icons=true&theme=transparent&bg_color=00000000&text_color=FFFFFF&border_color=1E90FF&title_color=1E90FF&icon_color=1E90FF&border_radius=20&count_private=true&show=reviews,discussions_started,discussions_answered" alt="esmail1234 Stats">
+</div>
 ---
 
 <h2 style="color: #1E90FF;">☕ Support Me</h2>
