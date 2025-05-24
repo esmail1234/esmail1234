@@ -48,7 +48,7 @@
 
 <h2 style="color: #FF8C00;">📊 GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=esmail-mohamed&theme=dracula&row=1&column=7" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=esmail1234" alt="esmail1234" />
 
 ---
 
