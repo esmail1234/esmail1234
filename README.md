@@ -62,7 +62,6 @@
 
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Database & Storage
 
@@ -174,12 +173,11 @@ _Currently working on innovative Flutter applications..._
 </div>
 
 ---
-
 <div align="center">
+  
+**⭐ From [esmail1234](https://github.com/esmail1234) with ❤️**
 
-### ⭐️ From [esmail1234](https://github.com/esmail1234)
-
-**Thanks for visiting! Feel free to star ⭐ my repositories if you find them interesting!**
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
