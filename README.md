@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=ESMAIL%20MOHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20|%20Mobile%20Engineer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8FFF,100:00D4FF&height=200&section=header&text=ESMAIL%20MOHAMED&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20Engineer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50&descSize=18"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;Building+Innovative+Solutions+%F0%9F%9A%80;From+Egypt+with+Passion+%F0%9F%87%AA%F0%9F%87%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile+👋;Flutter+%26+Mobile+App+Developer+📱;Building+Innovative+Solutions+🚀;From+Egypt+with+Passion+🇪🇬)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=esmail1234&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=esmail1234&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 <!-- GitHub Trophy -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/api?username=esmail1234&theme=discord&no-frame=true&no-bg=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/api?username=esmail1234&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophy"/>
 
 </div>
 
@@ -20,26 +20,31 @@
 
 ## 🚀 About Me
 
-```typescript
-const esmail = {
-    name: "Esmail Mohamed",
-    location: "Egypt 🇪🇬",
-    role: "Flutter Developer",
-    education: "Computer Science Student",
-    languages: ["Arabic", "English"],
-    currentFocus: "Building scalable mobile applications",
-    interests: ["Mobile Development", "UI/UX", "Problem Solving"],
-    lifePhilosophy: "Code, Learn, Improve, Repeat 🔄"
-};
-```
-
 <div align="center">
 
-### 🎯 What I Do
+### 👨‍💻 Hi, I'm Esmail Mohamed
 
-**📱 Mobile Development** • **🎨 UI/UX Design** • **🔧 Problem Solving** • **📚 Continuous Learning**
+**Flutter Developer | Mobile Engineer | Problem Solver**
+
+📍 Based in Egypt 🇪🇬 | 🎓 Computer Science Student | 💼 Open for Opportunities
 
 </div>
+
+#### 🎯 What I Do
+
+- 📱 Building **cross-platform mobile applications** with Flutter & Dart
+- 🔥 Implementing **state management** solutions (Provider, GetX, Bloc)
+- 🗄️ Working with **databases** (SQLite, SQFlite, Firebase, Hive)
+- ☁️ Integrating **REST APIs** and **Firebase services**
+- 🏗️ Following **clean architecture** and design patterns
+- 💡 Solving problems on **Codeforces** and other platforms
+
+#### 🎯 Goals for 2026
+
+- ✅ Contribute to open-source Flutter projects
+- ✅ Build and publish apps on Play Store & App Store
+- ✅ Master advanced state management patterns
+- ✅ Collaborate with developers worldwide
 
 ---
 
@@ -57,17 +62,17 @@ const esmail = {
 
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Database & Storage
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQFlite](https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 ![SharedPreferences](https://img.shields.io/badge/SharedPreferences-00ACC1?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ☁️ Backend & APIs
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Dio](https://img.shields.io/badge/Dio-00B4AB?style=for-the-badge&logo=dart&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005C97?style=for-the-badge&logo=http&logoColor=white)
@@ -90,10 +95,8 @@ const esmail = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -102,13 +105,13 @@ const esmail = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=esmail1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=esmail1234&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmail1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=esmail1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500" alt="Contribution Graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esmail1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esmail1234&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmail1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 ---
@@ -116,13 +119,12 @@ const esmail = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmail1234&theme=tokyonight" alt="Profile Summary"/>
-</div>
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmail1234&theme=tokyonight" alt="Repos Per Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmail1234&theme=tokyonight" alt="Most Commit Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmail1234&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmail1234&theme=tokyonight" alt="Profile Summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmail1234&theme=tokyonight" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmail1234&theme=tokyonight" alt="Most Commit Language"/>
+
 </div>
 
 ---
@@ -131,8 +133,9 @@ const esmail = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmail1234&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/esmail1234/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmail1234&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/esmail1234/YOUR_REPO_NAME)
+**🚀 Coming Soon - Check back for my latest projects!**
+
+_Currently working on innovative Flutter applications..._
 
 </div>
 
@@ -147,57 +150,39 @@ const esmail = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esmail_ff123/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@esmailmohamed1233)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/esmail-mohamed)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esmail1234&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=esmail1234&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
+## 💡 Dev Quote
 
 <div align="center">
 
-### 💬 Quote of the Day
-
-*"First, solve the problem. Then, write the code."* - John Johnson
-
----
-
-### 📫 Let's Build Something Amazing Together!
-
-**Open for collaborations and freelance projects**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-**⭐ From [esmail1234](https://github.com/esmail1234) with ❤️**
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+### ⭐️ From [esmail1234](https://github.com/esmail1234)
+
+**Thanks for visiting! Feel free to star ⭐ my repositories if you find them interesting!**
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8FFF,100:00D4FF&height=120&section=footer"/>
